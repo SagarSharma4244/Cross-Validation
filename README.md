@@ -1,1 +1,3 @@
 # Cross-Validation
+Let’s visualize to improve your prediction…
+Let us say, you are writing a nice and clean Machine Learning code(e.g. Linear Regression). You code is Ok, first you divided your dataset into two parts “Training Set and Test Set” as usual with the function like train_test_split and with some random factor. Your prediction could https://medium.com/@sagarsharma4244/cross-validation-code-visualization-kind-of-fun-b9741baea1f8
